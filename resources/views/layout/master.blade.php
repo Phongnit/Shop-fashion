@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.cwsthemes.com/liami/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Dec 2022 01:22:37 GMT -->
+<!-- Mirrored from html.cwsthemes.com/liami/{{url('/')}} by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Dec 2022 01:22:37 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -35,8 +35,8 @@
                             <a href="https://www.twitter.com/" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
                         </div>
                         <ul class="links-list d-flex flex-wrap align-items-center mb-0 list-unstyled">
-                            <li><a href="about.html" title="">About</a></li>
-                            <li><a href="contact.html" title="">Contact</a></li>
+                            <li><a href="{{url('/about')}}" title="">About</a></li>
+                            <li><a href="{{url('/contact')}}" title="">Contact</a></li>
                         </ul>
                     </div><!-- Top Left -->
                     <div class="topbar-mid">
@@ -44,9 +44,9 @@
                     </div>
                     <div class="topbar-right">
                         <ul class="links-list d-flex flex-wrap align-items-center mb-0 list-unstyled">
-                            <li><a href="faq.html" title="">Help</a></li>
-                            <li><a href="signup.html" title="">Join Us</a></li>
-                            <li><a href="login.html" title="">Sign In</a></li>
+                            <li><a href="{{url('/faq')}}" title="">Help</a></li>
+                            <li><a href="{{url('/register')}}" title="">Join Us</a></li>
+                            <li><a href="{{url('/login')}}" title="">Sign In</a></li>
                         </ul>
                     </div><!-- Top Right -->
                 </div><!-- Topbar Inner -->
@@ -57,7 +57,7 @@
                 <div class="logo-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
                     <div class="logo-menu-inner-left d-flex flex-wrap align-items-center">
                         <span class="sidepanel-trigger"><i class="fi fi-rr-align-justify"></i></span>
-                        <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
+                        <div class="logo"><h1 class="mb-0"><a href="{{url('/')}}" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
                     </div>
                     <div class="logo-menu-inner-mid">
                         <nav>
@@ -74,9 +74,9 @@
                                                                     <div class="megamenu-item w-100">
                                                                         <h4>Home Style</h4>
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="index.html" title="">Home Style 1</a></li>
-                                                                            <li><a href="index2.html" title="">Home Style 2</a></li>
-                                                                            <li><a href="index3.html" title="">Home Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Home Style 1</a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Home Style 2</a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Home Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -84,11 +84,11 @@
                                                                     <div class="megamenu-item w-100">
                                                                         <h4>Blog Style</h4>
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="blog.html" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="blog2.html" title="">Blog Style 2</a></li>
-                                                                            <li><a href="blog3.html" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="blog4.html" title="">Blog Style 4</a></li>
-                                                                            <li><a href="blog5.html" title="">Blog Style 5</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 2</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 4</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 5</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -96,11 +96,11 @@
                                                                     <div class="megamenu-item w-100">
                                                                         <h4>Product Style</h4>
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="product-detail.html" title="">Product Style 1</a></li>
-                                                                            <li><a href="product-detail2.html" title="">Product Style 2</a></li>
-                                                                            <li><a href="product-detail3.html" title="">Product Style 3</a></li>
-                                                                            <li><a href="product-detail4.html" title="">Product Style 4 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="product-detail5.html" title="">Product Style 5</a></li>
+                                                                            <li><a href="{{url('/product-detail')}}" title="">Product Style 1</a></li>
+                                                                            <li><a href="{{url('/product-detail')}}" title="">Product Style 2</a></li>
+                                                                            <li><a href="{{url('/product-detail')}}" title="">Product Style 3</a></li>
+                                                                            <li><a href="{{url('/product-detail')}}" title="">Product Style 4 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/product-detail')}}" title="">Product Style 5</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -108,9 +108,9 @@
                                                                     <div class="megamenu-item w-100">
                                                                         <h4>Header Style</h4>
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="index.html" title="">Header Style 1</a></li>
-                                                                            <li><a href="index2.html" title="">Header Style 2 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="index3.html" title="">Header Style 3</a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Header Style 1</a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Header Style 2 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/')}}" title="">Header Style 3</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -166,30 +166,30 @@
                                 </li>
                                 <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
                                     <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                        <li><a href="cart.html" title="">Cart</a></li>
-                                        <li><a href="checkout.html" title="">Checkout</a></li>
-                                        <li><a href="wishlist.html" title="">Wishlist</a></li>
+                                        <li><a href="{{url('/cart')}}" title="">Cart</a></li>
+                                        <li><a href="{{url('/checkout')}}" title="">Checkout</a></li>
+                                        <li><a href="{{url('/wishlist')}}" title="">Wishlist</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Product</a>
                                     <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                        <li><a href="product-detail.html" title="">Product Style 1</a></li>
-                                        <li><a href="product-detail2.html" title="">Product Style 2</a></li>
-                                        <li><a href="product-detail3.html" title="">Product Style 3</a></li>
-                                        <li><a href="product-detail4.html" title="">Product Style 4</a></li>
-                                        <li><a href="product-detail5.html" title="">Product Style 5</a></li>
+                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 1</a></li>
+                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 2</a></li>
+                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 3</a></li>
+                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 4</a></li>
+                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 5</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
                                     <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                        <li><a href="about.html" title="">About</a></li>
-                                        <li><a href="faq.html" title="">FAQ</a></li>
-                                        <li><a href="login.html" title="">Login</a></li>
-                                        <li><a href="signup.html" title="">Sign Up</a></li>
-                                        <li><a href="forgot-password.html" title="">Forgot Password</a></li>
-                                        <li><a href="content-elements.html" title="">Content Elements</a></li>
-                                        <li><a href="contact.html" title="">Contact Style 1</a></li>
-                                        <li><a href="contact2.html" title="">Contact Style 2</a></li>
+                                        <li><a href="{{url('/about')}}" title="">About</a></li>
+                                        <li><a href="{{url('/faq')}}" title="">FAQ</a></li>
+                                        <li><a href="{{url('/login')}}" title="">Login</a></li>
+                                        <li><a href="{{url('/register')}}" title="">Sign Up</a></li>
+                                        <li><a href="{{url('/forgot')}}" title="">Forgot Password</a></li>
+                                        <li><a href="{{url('/content-elements')}}" title="">Content Elements</a></li>
+                                        <li><a href="{{url('/contact')}}" title="">Contact Style 1</a></li>
+                                        <li><a href="{{url('/contact')}}" title="">Contact Style 2</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children megamenu-item"><a href="javascript:void(0);" title="">Blog</a>
@@ -203,29 +203,29 @@
                                                                 <div class="col">
                                                                     <div class="megamenu-item w-100">
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="blog.html" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="blog2.html" title="">Blog Style 2</a></li>
-                                                                            <li><a href="blog3.html" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="blog4.html" title="">Blog Style 4</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 2</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 4</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col">
                                                                     <div class="megamenu-item w-100">
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="blog5.html" title="">Blog Style 5</a></li>
-                                                                            <li><a href="blog-detail.html" title="">Blog Single 1</a></li>
-                                                                            <li><a href="blog-detail2.html" title="">Blog Single 2</a></li>
-                                                                            <li><a href="audio.html" title="">Audio</a></li>
+                                                                            <li><a href="{{url('/blog')}}" title="">Blog Style 5</a></li>
+                                                                            <li><a href="{{url('/blog-detail')}}" title="">Blog Single 1</a></li>
+                                                                            <li><a href="{{url('/blog-detail')}}" title="">Blog Single 2</a></li>
+                                                                            <li><a href="{{url('/audio')}}" title="">Audio</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col">
                                                                     <div class="megamenu-item w-100">
                                                                         <ul class="list-unstyled mb-0 w-100">
-                                                                            <li><a href="video.html" title="">Video <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                            <li><a href="quote.html" title="">Quote</a></li>
-                                                                            <li><a href="gallery.html" title="">Gallery</a></li>
+                                                                            <li><a href="{{url('/video')}}" title="">Video <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                            <li><a href="{{url('/quote')}}" title="">Quote</a></li>
+                                                                            <li><a href="{{url('/gallery')}}" title="">Gallery</a></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -257,9 +257,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -270,9 +270,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -283,9 +283,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -296,9 +296,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -313,8 +313,8 @@
                                                 <span class="price">$524.00</span>
                                             </div>
                                             <div class="btns-group d-flex flex-wrap align-items-center justify-content-between">
-                                                <a class="theme-btn bg-color1 brd-btn" href="cart.html" title="">View Cart<span></span><span></span><span></span><span></span></a>
-                                                <a class="theme-btn bg-color1" href="checkout.html" title="">Checkout<span></span><span></span><span></span><span></span></a>
+                                                <a class="theme-btn bg-color1 brd-btn" href="{{url('/cart')}}" title="">View Cart<span></span><span></span><span></span><span></span></a>
+                                                <a class="theme-btn bg-color1" href="{{url('/checkout')}}" title="">Checkout<span></span><span></span><span></span><span></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -333,7 +333,7 @@
         <div class="container">
             <div class="logo-menu-inner d-flex flex-wrap align-items-center justify-content-between w-100">
                 <div class="logo-menu-inner-left d-flex flex-wrap align-items-center">
-                    <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
+                    <div class="logo"><h1 class="mb-0"><a href="{{url('/')}}" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
                 </div>
                 <div class="logo-menu-inner-right d-flex flex-wrap align-items-center justify-content-end">
                     <nav>
@@ -350,9 +350,9 @@
                                                                 <div class="megamenu-item w-100">
                                                                     <h4>Home Style</h4>
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="index.html" title="">Home Style 1</a></li>
-                                                                        <li><a href="index2.html" title="">Home Style 2</a></li>
-                                                                        <li><a href="index3.html" title="">Home Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Home Style 1</a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Home Style 2</a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Home Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -360,11 +360,11 @@
                                                                 <div class="megamenu-item w-100">
                                                                     <h4>Blog Style</h4>
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="blog.html" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="blog2.html" title="">Blog Style 2</a></li>
-                                                                        <li><a href="blog3.html" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="blog4.html" title="">Blog Style 4</a></li>
-                                                                        <li><a href="blog5.html" title="">Blog Style 5</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 2</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 4</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 5</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -372,11 +372,11 @@
                                                                 <div class="megamenu-item w-100">
                                                                     <h4>Product Style</h4>
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="product-detail.html" title="">Product Style 1</a></li>
-                                                                        <li><a href="product-detail2.html" title="">Product Style 2</a></li>
-                                                                        <li><a href="product-detail3.html" title="">Product Style 3</a></li>
-                                                                        <li><a href="product-detail4.html" title="">Product Style 4 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="product-detail5.html" title="">Product Style 5</a></li>
+                                                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 1</a></li>
+                                                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 2</a></li>
+                                                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 3</a></li>
+                                                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 4 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/product-detail')}}" title="">Product Style 5</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -384,9 +384,9 @@
                                                                 <div class="megamenu-item w-100">
                                                                     <h4>Header Style</h4>
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="index.html" title="">Header Style 1</a></li>
-                                                                        <li><a href="index2.html" title="">Header Style 2 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="index3.html" title="">Header Style 3</a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Header Style 1</a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Header Style 2 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/')}}" title="">Header Style 3</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -442,30 +442,30 @@
                             </li>
                             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
                                 <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                    <li><a href="cart.html" title="">Cart</a></li>
-                                    <li><a href="checkout.html" title="">Checkout</a></li>
-                                    <li><a href="wishlist.html" title="">Wishlist</a></li>
+                                    <li><a href="{{url('/cart')}}" title="">Cart</a></li>
+                                    <li><a href="{{url('/checkout')}}" title="">Checkout</a></li>
+                                    <li><a href="{{url('/wishlist')}}" title="">Wishlist</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Product</a>
                                 <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                    <li><a href="product-detail.html" title="">Product Style 1</a></li>
-                                    <li><a href="product-detail2.html" title="">Product Style 2</a></li>
-                                    <li><a href="product-detail3.html" title="">Product Style 3</a></li>
-                                    <li><a href="product-detail4.html" title="">Product Style 4</a></li>
-                                    <li><a href="product-detail5.html" title="">Product Style 5</a></li>
+                                    <li><a href="{{url('/product-detail')}}" title="">Product Style 1</a></li>
+                                    <li><a href="{{url('/product-detail')}}" title="">Product Style 2</a></li>
+                                    <li><a href="{{url('/product-detail')}}" title="">Product Style 3</a></li>
+                                    <li><a href="{{url('/product-detail')}}" title="">Product Style 4</a></li>
+                                    <li><a href="{{url('/product-detail')}}" title="">Product Style 5</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
                                 <ul class="children position-absolute list-unstyled mb-0 w-100">
-                                    <li><a href="about.html" title="">About</a></li>
-                                    <li><a href="faq.html" title="">FAQ</a></li>
-                                    <li><a href="login.html" title="">Login</a></li>
-                                    <li><a href="signup.html" title="">Sign Up</a></li>
-                                    <li><a href="forgot-password.html" title="">Forgot Password</a></li>
-                                    <li><a href="content-elements.html" title="">Content Elements</a></li>
-                                    <li><a href="contact.html" title="">Contact Style 1</a></li>
-                                    <li><a href="contact2.html" title="">Contact Style 2</a></li>
+                                    <li><a href="{{url('/about')}}" title="">About</a></li>
+                                    <li><a href="{{url('/faq')}}" title="">FAQ</a></li>
+                                    <li><a href="{{url('/login')}}" title="">Login</a></li>
+                                    <li><a href="{{url('/register')}}" title="">Sign Up</a></li>
+                                    <li><a href="{{url('/forgot')}}" title="">Forgot Password</a></li>
+                                    <li><a href="{{url('/content-elements')}}" title="">Content Elements</a></li>
+                                    <li><a href="{{url('/contact')}}" title="">Contact Style 1</a></li>
+                                    <li><a href="{{url('/contact')}}" title="">Contact Style 2</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children megamenu-item"><a href="javascript:void(0);" title="">Blog</a>
@@ -479,29 +479,29 @@
                                                             <div class="col">
                                                                 <div class="megamenu-item w-100">
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="blog.html" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="blog2.html" title="">Blog Style 2</a></li>
-                                                                        <li><a href="blog3.html" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="blog4.html" title="">Blog Style 4</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 1 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 2</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 3 <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 4</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
                                                             <div class="col">
                                                                 <div class="megamenu-item w-100">
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="blog5.html" title="">Blog Style 5</a></li>
-                                                                        <li><a href="blog-detail.html" title="">Blog Single 1</a></li>
-                                                                        <li><a href="blog-detail2.html" title="">Blog Single 2</a></li>
-                                                                        <li><a href="audio.html" title="">Audio</a></li>
+                                                                        <li><a href="{{url('/blog')}}" title="">Blog Style 5</a></li>
+                                                                        <li><a href="{{url('/blog-detail')}}" title="">Blog Single 1</a></li>
+                                                                        <li><a href="{{url('/blog-detail')}}" title="">Blog Single 2</a></li>
+                                                                        <li><a href="{{url('/audio')}}" title="">Audio</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
                                                             <div class="col">
                                                                 <div class="megamenu-item w-100">
                                                                     <ul class="list-unstyled mb-0 w-100">
-                                                                        <li><a href="video.html" title="">Video <span class="badge bg-color4 rounded-pill">New</span></a></li>
-                                                                        <li><a href="quote.html" title="">Quote</a></li>
-                                                                        <li><a href="gallery.html" title="">Gallery</a></li>
+                                                                        <li><a href="{{url('/video')}}" title="">Video <span class="badge bg-color4 rounded-pill">New</span></a></li>
+                                                                        <li><a href="{{url('/quote')}}" title="">Quote</a></li>
+                                                                        <li><a href="{{url('/gallery')}}" title="">Gallery</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -531,9 +531,9 @@
                                         <li>
                                             <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                 <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
+                                                <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
                                                 <div class="mini-cart-info">
-                                                    <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                    <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                     <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                         <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                         <span class="price">$275.00</span>
@@ -544,9 +544,9 @@
                                         <li>
                                             <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                 <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
+                                                <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
                                                 <div class="mini-cart-info">
-                                                    <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                    <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                     <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                         <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                         <span class="price">$275.00</span>
@@ -557,9 +557,9 @@
                                         <li>
                                             <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                 <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
+                                                <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
                                                 <div class="mini-cart-info">
-                                                    <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                    <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                     <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                         <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                         <span class="price">$275.00</span>
@@ -570,9 +570,9 @@
                                         <li>
                                             <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                 <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
+                                                <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
                                                 <div class="mini-cart-info">
-                                                    <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                    <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                     <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                         <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                         <span class="price">$275.00</span>
@@ -587,8 +587,8 @@
                                             <span class="price">$524.00</span>
                                         </div>
                                         <div class="btns-group d-flex flex-wrap align-items-center justify-content-between">
-                                            <a class="theme-btn bg-color1 brd-btn" href="cart.html" title="">View Cart<span></span><span></span><span></span><span></span></a>
-                                            <a class="theme-btn bg-color1" href="checkout.html" title="">Checkout<span></span><span></span><span></span><span></span></a>
+                                            <a class="theme-btn bg-color1 brd-btn" href="{{url('/cart')}}" title="">View Cart<span></span><span></span><span></span><span></span></a>
+                                            <a class="theme-btn bg-color1" href="{{url('/checkout')}}" title="">Checkout<span></span><span></span><span></span><span></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -613,9 +613,9 @@
                     <li>
                         <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                             <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                            <div class="mini-cart-img overflow-hidden"><a href="product-detail2.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
+                            <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
                             <div class="mini-cart-info">
-                                <h6 class="mb-0"><a href="product-detail2.html" title="">Commodo Blown Lamp</a></h6>
+                                <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                 <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                     <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                     <span class="price">$275.00</span>
@@ -626,9 +626,9 @@
                     <li>
                         <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                             <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                            <div class="mini-cart-img overflow-hidden"><a href="product-detail2.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
+                            <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
                             <div class="mini-cart-info">
-                                <h6 class="mb-0"><a href="product-detail2.html" title="">Commodo Blown Lamp</a></h6>
+                                <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                 <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                     <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                     <span class="price">$275.00</span>
@@ -639,9 +639,9 @@
                     <li>
                         <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                             <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                            <div class="mini-cart-img overflow-hidden"><a href="product-detail2.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
+                            <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
                             <div class="mini-cart-info">
-                                <h6 class="mb-0"><a href="product-detail2.html" title="">Commodo Blown Lamp</a></h6>
+                                <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                 <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                     <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                     <span class="price">$275.00</span>
@@ -652,9 +652,9 @@
                     <li>
                         <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                             <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                            <div class="mini-cart-img overflow-hidden"><a href="product-detail2.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
+                            <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
                             <div class="mini-cart-info">
-                                <h6 class="mb-0"><a href="product-detail2.html" title="">Commodo Blown Lamp</a></h6>
+                                <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                 <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                     <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                     <span class="price">$275.00</span>
@@ -669,8 +669,8 @@
                         <span class="price">$524.00</span>
                     </div>
                     <div class="btns-group d-flex flex-wrap align-items-center justify-content-between">
-                        <a class="theme-btn bg-color1 brd-btn" href="cart.html" title="">View Cart<span></span><span></span><span></span><span></span></a>
-                        <a class="theme-btn bg-color1" href="checkout.html" title="">Checkout<span></span><span></span><span></span><span></span></a>
+                        <a class="theme-btn bg-color1 brd-btn" href="{{url('/cart')}}" title="">View Cart<span></span><span></span><span></span><span></span></a>
+                        <a class="theme-btn bg-color1" href="{{url('/checkout')}}" title="">Checkout<span></span><span></span><span></span><span></span></a>
                     </div>
                 </div>
             </div>
@@ -687,7 +687,7 @@
         <div class="responsive-topbar w-100">
             <div class="container">
                 <div class="responsive-topbar-inner d-flex flex-wrap align-items-center justify-content-between w-100">
-                    <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
+                    <div class="logo"><h1 class="mb-0"><a href="{{url('/')}}" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
                     <div class="logo-menu-inner-right d-flex flex-wrap align-items-center justify-content-end">
                         <ul class="wishlist-and-cart d-flex flex-wrap align-items-center mb-0 list-unstyled">
                             <li>
@@ -702,9 +702,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-1.jpg" alt="Mini Cart Image 1"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -715,9 +715,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-2.jpg" alt="Mini Cart Image 2"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -728,9 +728,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-3.jpg" alt="Mini Cart Image 3"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -741,9 +741,9 @@
                                             <li>
                                                 <div class="mini-cart-item d-flex flex-wrap position-relative w-100">
                                                     <a class="remove-cart position-absolute rounded-circle" href="javascript:void(0);" title=""><i class="fi fi-rr-cross-small"></i></a>
-                                                    <div class="mini-cart-img overflow-hidden"><a href="product-detail.html" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
+                                                    <div class="mini-cart-img overflow-hidden"><a href="{{url('/product-detail')}}" title=""><img class="img-fluid w-100" src="assets/images/resources/mini-cart-img1-4.jpg" alt="Mini Cart Image 4"></a></div>
                                                     <div class="mini-cart-info">
-                                                        <h6 class="mb-0"><a href="product-detail.html" title="">Commodo Blown Lamp</a></h6>
+                                                        <h6 class="mb-0"><a href="{{url('/product-detail')}}" title="">Commodo Blown Lamp</a></h6>
                                                         <div class="mini-cart-btm d-flex flex-wrap align-items-center justify-content-between">
                                                             <div class="product-quanty"><input type="number" class="qty" value="01"></div>
                                                             <span class="price">$275.00</span>
@@ -758,8 +758,8 @@
                                                 <span class="price">$524.00</span>
                                             </div>
                                             <div class="btns-group d-flex flex-wrap align-items-center justify-content-between">
-                                                <a class="theme-btn bg-color1 brd-btn" href="cart.html" title="">View Cart<span></span><span></span><span></span><span></span></a>
-                                                <a class="theme-btn bg-color1" href="checkout.html" title="">Checkout<span></span><span></span><span></span><span></span></a>
+                                                <a class="theme-btn bg-color1 brd-btn" href="{{url('/cart')}}" title="">View Cart<span></span><span></span><span></span><span></span></a>
+                                                <a class="theme-btn bg-color1" href="{{url('/checkout')}}" title="">Checkout<span></span><span></span><span></span><span></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -782,52 +782,52 @@
         <ul class="mb-0 list-unstyled w-100">
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Home</a>
                 <ul class="children mb-0 list-unstyled w-100">
-                    <li><a href="index.html" title="">Home Style 1</a></li>
-                    <li><a href="index2.html" title="">Home Style 2</a></li>
-                    <li><a href="index3.html" title="">Home Style 3</a></li>
+                    <li><a href="{{url('/')}}" title="">Home Style 1</a></li>
+                    <li><a href="{{url('/')}}" title="">Home Style 2</a></li>
+                    <li><a href="{{url('/')}}" title="">Home Style 3</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Shop</a>
                 <ul class="children mb-0 list-unstyled w-100">
-                    <li><a href="product-detail.html" title="">Product Style 1</a></li>
-                    <li><a href="product-detail2.html" title="">Product Style 2</a></li>
-                    <li><a href="product-detail3.html" title="">Product Style 3</a></li>
-                    <li><a href="product-detail4.html" title="">Product Style 4</a></li>
-                    <li><a href="product-detail5.html" title="">Product Style 5</a></li>
-                    <li><a href="cart.html" title="">Cart</a></li>
-                    <li><a href="checkout.html" title="">Checkout</a></li>
-                    <li><a href="wishlist.html" title="">Wishlist</a></li>
+                    <li><a href="{{url('/product-detail')}}" title="">Product Style 1</a></li>
+                    <li><a href="{{url('/product-detail')}}" title="">Product Style 2</a></li>
+                    <li><a href="{{url('/product-detail')}}" title="">Product Style 3</a></li>
+                    <li><a href="{{url('/product-detail')}}" title="">Product Style 4</a></li>
+                    <li><a href="{{url('/product-detail')}}" title="">Product Style 5</a></li>
+                    <li><a href="{{url('/cart')}}" title="">Cart</a></li>
+                    <li><a href="{{url('/checkout')}}" title="">Checkout</a></li>
+                    <li><a href="{{url('/wishlist')}}" title="">Wishlist</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Blog</a>
                 <ul class="children mb-0 list-unstyled w-100">
-                    <li><a href="blog.html" title="">Blog Style 1</a></li>
-                    <li><a href="blog2.html" title="">Blog Style 2</a></li>
-                    <li><a href="blog3.html" title="">Blog Style 3</a></li>
-                    <li><a href="blog4.html" title="">Blog Style 4</a></li>
-                    <li><a href="blog5.html" title="">Blog Style 5</a></li>
-                    <li><a href="blog-detail.html" title="">Blog Single 1</a></li>
-                    <li><a href="blog-detail2.html" title="">Blog Single 2</a></li>
-                    <li><a href="audio.html" title="">Audio</a></li>
-                    <li><a href="video.html" title="">Video</a></li>
-                    <li><a href="quote.html" title="">Quote</a></li>
-                    <li><a href="gallery.html" title="">Gallery</a></li>
+                    <li><a href="{{url('/blog')}}" title="">Blog Style 1</a></li>
+                    <li><a href="{{url('/blog')}}" title="">Blog Style 2</a></li>
+                    <li><a href="{{url('/blog')}}" title="">Blog Style 3</a></li>
+                    <li><a href="{{url('/blog')}}" title="">Blog Style 4</a></li>
+                    <li><a href="{{url('/blog')}}" title="">Blog Style 5</a></li>
+                    <li><a href="{{url('/blog-detail')}}" title="">Blog Single 1</a></li>
+                    <li><a href="{{url('/blog-detail')}}" title="">Blog Single 2</a></li>
+                    <li><a href="{{url('/audio')}}" title="">Audio</a></li>
+                    <li><a href="{{url('/video')}}" title="">Video</a></li>
+                    <li><a href="{{url('/quote')}}" title="">Quote</a></li>
+                    <li><a href="{{url('/gallery')}}" title="">Gallery</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Pages</a>
                 <ul class="children mb-0 list-unstyled w-100">
-                    <li><a href="about.html" title="">About</a></li>
-                    <li><a href="faq.html" title="">FAQ</a></li>
-                    <li><a href="login.html" title="">Login</a></li>
-                    <li><a href="signup.html" title="">Sign Up</a></li>
-                    <li><a href="forgot-password.html" title="">Forgot Password</a></li>
-                    <li><a href="content-elements.html" title="">Content Elements</a></li>
+                    <li><a href="{{url('/about')}}" title="">About</a></li>
+                    <li><a href="{{url('/faq')}}" title="">FAQ</a></li>
+                    <li><a href="{{url('/login')}}" title="">Login</a></li>
+                    <li><a href="{{url('/register')}}" title="">Sign Up</a></li>
+                    <li><a href="{{url('/forgot')}}" title="">Forgot Password</a></li>
+                    <li><a href="{{url('/content-elements')}}" title="">Content Elements</a></li>
                 </ul>
             </li>
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Contact</a>
                 <ul class="children mb-0 list-unstyled w-100">
-                    <li><a href="contact.html" title="">Contact Style 1</a></li>
-                    <li><a href="contact2.html" title="">Contact Style 2</a></li>
+                    <li><a href="{{url('/contact')}}" title="">Contact Style 1</a></li>
+                    <li><a href="{{url('/contact')}}" title="">Contact Style 2</a></li>
                 </ul>
             </li>
         </ul>
@@ -846,7 +846,7 @@
                 <div class="row mrg30">
                     <div class="col-md-3 col-sm-6 col-lg-3">
                         <div class="widget w-100">
-                            <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img class="img-fluid" src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
+                            <div class="logo"><h1 class="mb-0"><a href="{{url('/')}}" title="Home"><img class="img-fluid" src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
                             <div class="social-links d-flex flex-wrap">
                                 <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -860,10 +860,10 @@
                         <div class="widget w-100">
                             <h5>Shop</h5>
                             <ul>
-                                <li><a href="product-detail.html" title="">Long Fit T-shirt</a></li>
-                                <li><a href="product-detail2.html" title="">Short Fit T-shirt</a></li>
-                                <li><a href="product-detail3.html" title="">Long Fit Pant</a></li>
-                                <li><a href="product-detail4.html" title="">Short Fit Pant</a></li>
+                                <li><a href="{{url('/product-detail')}}" title="">Long Fit T-shirt</a></li>
+                                <li><a href="{{url('/product-detail')}}" title="">Short Fit T-shirt</a></li>
+                                <li><a href="{{url('/product-detail')}}" title="">Long Fit Pant</a></li>
+                                <li><a href="{{url('/product-detail')}}" title="">Short Fit Pant</a></li>
                             </ul>
                         </div>
                     </div>
@@ -871,10 +871,10 @@
                         <div class="widget w-100">
                             <h5>Blog</h5>
                             <ul>
-                                <li><a href="blog-detail.html" title="">Standard</a></li>
-                                <li><a href="audio.html" title="">Audio</a></li>
-                                <li><a href="video.html" title="">Video</a></li>
-                                <li><a href="quote.html" title="">Quote</a></li>
+                                <li><a href="{{url('/blog-detail')}}" title="">Standard</a></li>
+                                <li><a href="{{url('/audio')}}" title="">Audio</a></li>
+                                <li><a href="{{url('/video')}}" title="">Video</a></li>
+                                <li><a href="{{url('/quote')}}" title="">Quote</a></li>
                             </ul>
                         </div>
                     </div>
@@ -882,10 +882,10 @@
                         <div class="widget w-100">
                             <h5>Company</h5>
                             <ul>
-                                <li><a href="about.html" title="">About</a></li>
-                                <li><a href="content-elements.html" title="">Content Elements</a></li>
-                                <li><a href="faq.html" title="">Help</a></li>
-                                <li><a href="contact.html" title="">Contact</a></li>
+                                <li><a href="{{url('/about')}}" title="">About</a></li>
+                                <li><a href="{{url('/content-elements')}}" title="">Content Elements</a></li>
+                                <li><a href="{{url('/faq')}}" title="">Help</a></li>
+                                <li><a href="{{url('/contact')}}" title="">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -896,7 +896,7 @@
                 <ul class="bottom-links d-flex flex-wrap align-items-center list-unstyled mb-0">
                     <li><a href="javascript:void(0);" title="">Privacy Policy</a></li>
                     <li><a href="javascript:void(0);" title="">Terms of Service</a></li>
-                    <li>&copy; <a href="index.html" title="">Liami</a> All rights reserved.</li>
+                    <li>&copy; <a href="{{url('/')}}" title="">Liami</a> All rights reserved.</li>
                 </ul><!-- Bottom Links -->
                 <div class="payment-opt d-flex flex-wrap align-items-center">
                     <span>Accept for</span>
@@ -921,5 +921,5 @@
 <script src="assets/js/custom-scripts.js"></script>
 </body>
 
-<!-- Mirrored from html.cwsthemes.com/liami/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Dec 2022 01:23:04 GMT -->
+<!-- Mirrored from html.cwsthemes.com/liami/{{url('/')}} by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Dec 2022 01:23:04 GMT -->
 </html>

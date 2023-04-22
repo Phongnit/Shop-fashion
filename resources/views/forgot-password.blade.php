@@ -1,8 +1,3 @@
-@extends('layout.master')
-@section('title', 'Home')
-@section('main')
-
-@endsection
 
 <!DOCTYPE html>
 <html lang="en">
@@ -34,12 +29,12 @@
         <div class="lg-rg-wrap d-flex flex-wrap align-items-center position-relative w-100">
             <div class="lg-rg-img position-relative">
                 <div class="fixed-bg" style="background-image: url(assets/images/lg-rg-bg.jpg);"></div>
-                <div class="logo"><h1 class="mb-0"><a href="index.html" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
+                <div class="logo"><h1 class="mb-0"><a href="{{url('/')}}" title="Home"><img src="assets/images/logo.svg" alt="Logo"></a></h1></div><!-- Logo -->
             </div>
             <div class="lg-rg-form d-flex flex-wrap align-items-center justify-content-center position-relative">
                 <div class="lg-rg-form-top align-items-center justify-content-between d-flex flex-wrap w-100">
-                    <a class="back-btn rounded-circle" href="login.html" title=""><i class="fi fi-rr-angle-small-left"></i></a>
-                    <p class="mb-0">Already a member? <a href="login.html" title="">Sign In</a></p>
+                    <a class="back-btn rounded-circle" href="{{url('/login')}}" title=""><i class="fi fi-rr-angle-small-left"></i></a>
+                    <p class="mb-0">Already a member? <a href="{{url('/login')}}" title="">Sign In</a></p>
                 </div>
                 <div class="lg-rg-form-inner w-100">
                     <h2 class="mb-0">Forgot Password?</h2>
